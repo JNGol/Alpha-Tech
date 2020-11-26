@@ -33,6 +33,81 @@
 
     </div>
 </nav>
+<div class="container cta-100 ">
+        <h2 class="notis">Our projects</h2>
+        <div class="container">
+            <div class="row blog">
+                <div class="col-md-12">
+                    <div id="blogCarousel" class="carousel slide container-blog" data-ride="carousel">
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <div class="item-box-blog">
+                                            <div class="item-box-blog-image">
+                                                <figure> <img class="rounded-circle width-100" src="img/pr.jpg">
+                                                </figure>
+                                            </div>
+                                            <div class="item-box-blog-body">
+                                                <div class="item-box-blog-heading">
+                                                    <a tabindex="0">
+                                                        <h5>Project Name</h5>
+                                                    </a>
+                                                </div>
+                                                <div class="item-box-blog-text">
+                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
+                                                        vehicula sapien erat, sed dignissim nisi scelerisque. </p>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="item-box-blog">
+                                            <div class="item-box-blog-image">
+                                                <figure> <img class="rounded-circle width-100" src="img/pr.jpg">
+                                                </figure>
+                                            </div>
+                                            <div class="item-box-blog-body">
+                                                <div class="item-box-blog-heading">
+                                                    <a tabindex="0">
+                                                        <h5>Project Name</h5>
+                                                    </a>
+                                                </div>
+                                                <div class="item-box-blog-text">
+                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
+                                                        vehicula sapien erat, sed dignissim nisi scelerisque. </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="item-box-blog">
+                                            <div class="item-box-blog-image">
+                                                <figure> <img class="rounded-circle width-100" src="img/pr.jpg">
+                                                </figure>
+                                            </div>
+                                            <div class="item-box-blog-body">
+                                                <div class="item-box-blog-heading">
+                                                    <a tabindex="0">
+                                                        <h5>Project Name</h5>
+                                                    </a>
+                                                </div>
+                                                <div class="item-box-blog-text">
+                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
+                                                        vehicula sapien erat, sed dignissim nisi scelerisque. </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
 
 
